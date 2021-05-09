@@ -60,22 +60,34 @@
 > * ![Screenshot (694)](https://user-images.githubusercontent.com/83652490/117566008-de599b80-b0d1-11eb-9639-f3df8d239ff4.png)
 > ---
 > * ![Screenshot (664)](https://user-images.githubusercontent.com/83652490/117566028-f6311f80-b0d1-11eb-971a-3373ee08e9d7.png)
+---
+> * ![Screenshot (146)](https://user-images.githubusercontent.com/83652490/117566012-e44f7c80-b0d1-11eb-8fef-649a216e0b82.png)
+> ---
+> * ![Screenshot (84)](https://user-images.githubusercontent.com/83652490/117566010-e1548c00-b0d1-11eb-8201-e7f02f17c80d.png)
+> ---
+> * ![Screenshot (581)](https://user-images.githubusercontent.com/83652490/117566013-e6194000-b0d1-11eb-9d1d-32ec501781bd.png)
+> ---
+> * ![Screenshot (582)](https://user-images.githubusercontent.com/83652490/117566016-e74a6d00-b0d1-11eb-83f3-8c47c7b0e9a0.png)
+> ---
+> * ![Screenshot (686)](https://user-images.githubusercontent.com/83652490/117565983-c5e98100-b0d1-11eb-8fcf-26e6e65e1bfb.png)
+> ---
+> * ![Screenshot (687)](https://user-images.githubusercontent.com/83652490/117565986-c97d0800-b0d1-11eb-88f4-c1efd1c13e8a.png)
+> ---
+> * ![Screenshot (688)](https://user-images.githubusercontent.com/83652490/117565989-cb46cb80-b0d1-11eb-97e5-35ab4c6c3340.png)
+> ---
+> * ![Screenshot (689)](https://user-images.githubusercontent.com/83652490/117565994-ce41bc00-b0d1-11eb-9567-05298f828021.png)
+> ---
+> * ![Screenshot (690)](https://user-images.githubusercontent.com/83652490/117565995-cf72e900-b0d1-11eb-80bf-236a5aa56cdd.png)
+> ---
+> * ![Screenshot (691)](https://user-images.githubusercontent.com/83652490/117565998-d1d54300-b0d1-11eb-8cfb-6c3d49df399e.png)
+> ---
+> * ![Screenshot (692)](https://user-images.githubusercontent.com/83652490/117566000-d39f0680-b0d1-11eb-9d78-f687b330e381.png)
+> ---
+> * ![Screenshot (693)](https://user-images.githubusercontent.com/83652490/117566001-d568ca00-b0d1-11eb-8537-812a04d4f789.png)
+> ---
+> ![Screenshot (583)](https://user-images.githubusercontent.com/83652490/117566018-eb768a80-b0d1-11eb-9b47-66238415649a.png)
 
 ---
-
-![Screenshot (146)](https://user-images.githubusercontent.com/83652490/117566012-e44f7c80-b0d1-11eb-8fef-649a216e0b82.png)
-![Screenshot (84)](https://user-images.githubusercontent.com/83652490/117566010-e1548c00-b0d1-11eb-8201-e7f02f17c80d.png)
-![Screenshot (581)](https://user-images.githubusercontent.com/83652490/117566013-e6194000-b0d1-11eb-9d1d-32ec501781bd.png)
-![Screenshot (582)](https://user-images.githubusercontent.com/83652490/117566016-e74a6d00-b0d1-11eb-83f3-8c47c7b0e9a0.png)
-> * ![Screenshot (686)](https://user-images.githubusercontent.com/83652490/117565983-c5e98100-b0d1-11eb-8fcf-26e6e65e1bfb.png)
-![Screenshot (687)](https://user-images.githubusercontent.com/83652490/117565986-c97d0800-b0d1-11eb-88f4-c1efd1c13e8a.png)
-![Screenshot (688)](https://user-images.githubusercontent.com/83652490/117565989-cb46cb80-b0d1-11eb-97e5-35ab4c6c3340.png)
-![Screenshot (689)](https://user-images.githubusercontent.com/83652490/117565994-ce41bc00-b0d1-11eb-9567-05298f828021.png)
-![Screenshot (690)](https://user-images.githubusercontent.com/83652490/117565995-cf72e900-b0d1-11eb-80bf-236a5aa56cdd.png)
-![Screenshot (691)](https://user-images.githubusercontent.com/83652490/117565998-d1d54300-b0d1-11eb-8cfb-6c3d49df399e.png)
-![Screenshot (692)](https://user-images.githubusercontent.com/83652490/117566000-d39f0680-b0d1-11eb-9d78-f687b330e381.png)
-![Screenshot (693)](https://user-images.githubusercontent.com/83652490/117566001-d568ca00-b0d1-11eb-8537-812a04d4f789.png)
-![Screenshot (583)](https://user-images.githubusercontent.com/83652490/117566018-eb768a80-b0d1-11eb-9b47-66238415649a.png)
 
 
 ## &#10023; Contact:
@@ -86,7 +98,16 @@
 > * **Portfolio Website:** https://vivek-chavhan.github.io
 > * **Resume:** https://vivek-chavhan.github.io/resume
 > 
- ---
+---
+ 
+## &#10023; Work Samples
+> * Work Samples: https://vivek-chavhan.github.io/work-samples
+> * AutoCAD: https://vivek-chavhan.github.io/AutoCAD/
+> * CATAIv5: https://vivek-chavhan.github.io/CATIAv5/
+> * PTC-Creo: https://vivek-chavhan.github.io/PTC-Creo/
+> * Assembly Projects: https://vivek-chavhan.github.io/Assembly-Projects/
+
+
 ## &#10023; Hire Me:
 > ![Vivek Header](https://user-images.githubusercontent.com/83652490/117562356-0211e700-b0bc-11eb-9cba-e56b4dea9a80.png)
 ---
